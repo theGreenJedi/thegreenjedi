@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Server Monkey turned SysAdmin - Officially a Pull-Stack Developer (Pulling things off of the Internet, and injecting into my code.)
 
 <!--
 **theGreenJedi/thegreenjedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
